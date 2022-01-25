@@ -73,13 +73,9 @@ detectedText: detectText,
 ```
 
 #Preview of Real Time Translation
+
+
 ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/realtime_translation.gif)
+                                                                                                                                           |
 
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/ss1.png) | ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/ss2.png) |
 
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/ss3.png) | ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/ss4.png) |
-
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/ss5.pngg) |                                                                              |
