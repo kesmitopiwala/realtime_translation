@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../Flutter_Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_ml_kit-0.7.3" />
+      <root url="file://$PROJECT_DIR$/../../Flutter_Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.8.1+7" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
