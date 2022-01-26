@@ -85,15 +85,12 @@ detectedText: detectText,
 
 <br>
 
-| SelectLanguage for translation                                                                                   | Choosen language shown                                                                                      |
+| SelectLanguage for translation                                                                                   | Translation in selected language                                                                                      |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/kesmitopiwala/realtime_translation/main/assets/ss3.png) | ![](https://raw.githubusercontent.com/kesmitopiwala/realtime_translation/main/assets/ss4.png) |
+| ![](https://raw.githubusercontent.com/kesmitopiwala/realtime_translation/main/assets/ss3.png) | ![](https://raw.githubusercontent.com/kesmitopiwala/realtime_translation/main/assets/ss5.png) |
 
 <br>
-
-| Translation in selected language                                                                                   |                                                                                                             |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/kesmitopiwala/realtime_translation/main/assets/ss5.png) |                                                                                                                                                       |                                                                                     
+                                                                       
                                                                                                                                           
 
 
