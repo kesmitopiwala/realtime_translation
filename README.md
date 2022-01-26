@@ -76,6 +76,24 @@ detectedText: detectText,
 
 
 ![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/realtime_translation.gif)
-                                                                                                                                           |
+
+<br>
+
+| Preview of TsCameraView                                                                                   | SelectLanguage for translation                                                                                      |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss1.png) | ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss2.png) |
+
+<br>
+
+| SelectLanguage for translation                                                                                   | Choosen language shown                                                                                      |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss3.png) | ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss4.png) |
+                                                                                                                                                             
+<br>
+
+| Translation in selected language                                                                                   |                                                                                                             |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss5.png) |                                                                                                                                                       |                                                                                     
+                                                                                                                                          
 
 
