@@ -1,6 +1,6 @@
 name: realtime_translation
 description: A new Flutter real time translation Package for android and ios.It is used for real time translation from camera.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/kesmitopiwala/realtime_translation/blob/main/example/lib/main.dart
 
 environment:
