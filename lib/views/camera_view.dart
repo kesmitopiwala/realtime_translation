@@ -103,7 +103,11 @@ class _TsCameraViewState extends State<TsCameraView> {
         fit: StackFit.expand,
         children: <Widget>[
           ///Camera preview widget for the given camera controller
-          CameraPreview(_controller!),
+          AspectRatio(
+            aspectRatio: _controller!.value.aspectRatio,
+            child: CameraPreview(
+                _controller!),
+          ),
 
           ///Slider for manage zoomin level of camera
           Positioned(

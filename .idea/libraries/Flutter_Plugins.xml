@@ -3,7 +3,8 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$" />
       <root url="file://$PROJECT_DIR$/../../Flutter_Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_ml_kit-0.7.3" />
-      <root url="file://$PROJECT_DIR$/../../Flutter_Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.8.1+7" />
+      <root url="file://$PROJECT_DIR$/../../Flutter_Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.9.4+7" />
+      <root url="file://$PROJECT_DIR$/../../Flutter_Sdk/flutter/.pub-cache/hosted/pub.dartlang.org/camera_web-0.2.1+1" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
