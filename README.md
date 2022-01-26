@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-A flutter plugin for Andoid and ios for make real time translation of text from camera. This plugin through you can select language 
+A flutter plugin for Andoid and ios for make real time translation of text from camera. This plugin through you can select language
 and then TsCameraView thorugh you can detect text and see translation of detected text and also set zooming level for camera.
 
 #Setup for Android
@@ -73,13 +73,27 @@ detectedText: detectText,
 ```
 
 #Preview of Real Time Translation
-![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/realtime_translation.gif)
 
+
+![](https://github.com/kesmitopiwala/realtime_translation/blob/main/assets/realtime_translation.gif)
+
+<br>
+
+| Preview of TsCameraView                                                                                   | SelectLanguage for translation                                                                                      |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss1.png) | ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss2.png) |
 
+<br>
+
+| SelectLanguage for translation                                                                                   | Choosen language shown                                                                                      |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss3.png) | ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss4.png) |
 
+<br>
+
+| Translation in selected language                                                                                   |                                                                                                             |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss5.png) |                                                                              |
+| ![](https://github.com/kesmitopiwala/realtime_translation/blob/master/assets/ss5.png) |                                                                                                                                                       |                                                                                     
+                                                                                                                                          
+
+
