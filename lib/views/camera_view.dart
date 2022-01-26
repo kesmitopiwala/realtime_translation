@@ -39,7 +39,6 @@ class TsCameraView extends StatefulWidget {
 }
 
 class _TsCameraViewState extends State<TsCameraView> {
-
   ///For controls camera device
   CameraController? _controller;
 
@@ -67,6 +66,7 @@ class _TsCameraViewState extends State<TsCameraView> {
   @override
   void initState() {
     super.initState();
+
     ///For camera conmtroller initialization,get camera minimum and maximum zoom level and get live image stream data
     _startLiveFeed();
   }
@@ -104,6 +104,7 @@ class _TsCameraViewState extends State<TsCameraView> {
         children: <Widget>[
           ///Camera preview widget for the given camera controller
           CameraPreview(_controller!),
+
           ///Slider for manage zoomin level of camera
           Positioned(
             top: 100,
@@ -131,7 +132,6 @@ class _TsCameraViewState extends State<TsCameraView> {
 
   ///For camera conmtroller initialization,get camera minimum and maximum zoom level and get live image stream data
   Future _startLiveFeed() async {
-
     ///Camera controller initialization
     final camera = cameras[_cameraIndex];
     _controller = CameraController(

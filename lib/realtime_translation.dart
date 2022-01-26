@@ -6,9 +6,8 @@ import 'package:flutter/material.dart';
 List<CameraDescription> cameras = [];
 
 class RealtimeTranslation {
-
   ///Get list of available cameras
-  Future<void> cameraInitialization() async{
+  Future<void> cameraInitialization() async {
     WidgetsFlutterBinding.ensureInitialized();
     cameras = await availableCameras();
   }
